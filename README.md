@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Yogeswarachary/Yogeswarachary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* My name is Yogeswarachary.
+* I am data science enthusiast. 
+* I like to learn data science related information from the Kaggle.com, Youtube.com and Github.com
+* Present I am looking for fresher job opputurnity in the Data analyst or data engineer field.
 
-Here are some ideas to get you started:
+### I'm good at
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Domain: Natural Language Processing, Machine Learning, Deep learning, Data visualization, Data science and data warehousing.
+
+Languages: Python, Mysql
+
+Libraries and tools : NLTK, Numpy, Pandas, SciKit learn,Scipy, Matplotlib, Seaborn, AWS EC2, AWS S3.
+
+Data Analysis: Exploratory Data Analysis, Statistics, Model Development & Evaluation Metrics, Quantitative Methods, Google Analytics.
+
+Visualization tools: Tableau, Microsoft Power BI
+
+blog: https://way2ds.wordpress.com/
+
+LinkedIn: https://www.linkedin.com/in/yogeswarachary-modepalli-4a91571b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOeGA%2BhEuSzq18%2B0dYFq6Dw%3D%3D
