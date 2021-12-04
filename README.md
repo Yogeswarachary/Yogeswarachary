@@ -5,7 +5,7 @@
 * I like to learn data science related information from the Kaggle.com, Youtube.com and Github.com
 * Present I am looking for fresher job opputurnity in the Data analyst or data engineer field.
 
-### I'm good at
+### I have knowledge at
 
 Domain: Natural Language Processing, Machine Learning, Deep learning, Data visualization, Data science and data warehousing.
 
