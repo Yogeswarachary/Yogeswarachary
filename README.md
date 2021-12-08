@@ -7,15 +7,15 @@
 
 ### I have knowledge at
 
-Domain: Natural Language Processing, Machine Learning, Deep learning, Data visualization, Data science and data warehousing.
+Domain: Machine Learning, Deep learning, Data visualization, Data science and data warehousing.
 
-Languages: Python, Mysql
+Languages: Python, Mysql work bench.
 
-Libraries and tools : NLTK, Numpy, Pandas, SciKit learn,Scipy, Matplotlib, Seaborn, AWS EC2, AWS S3.
+Libraries and tools : NLTK, Numpy, Pandas, SciKit learn,Scipy, Matplotlib, Seaborn, Amazon Redshift, Basic Knowledge in Apache Airflow.
 
 Data Analysis: Exploratory Data Analysis, Statistics, Model Development & Evaluation Metrics, Quantitative Methods, Google Analytics.
 
-Visualization tools: Tableau, Microsoft Power BI
+Visualization tools: Google data studio,Tableau, Microsoft Power BI.
 
 blog: https://way2ds.wordpress.com/
 
