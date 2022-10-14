@@ -1,16 +1,18 @@
 ### Hi there 👋 My name is Yogeswarachary.
 
-I am a Javascript learner. I am trying to learn React js, Node js. I have completed some projects based on Data analysis. I enjoy learning about Web development and C++. Present I am trying to make web pages, by using React js. Reach me at [LinkedIn](https://www.linkedin.com/in/yogeswarachary-modepalli-4a91571b8/)
+I am a java developer.I am very passionate about java development. from 16 May 2022 to 15 September 2022 my internship period. I have completed my internship at Pratian Technologies in Banglore, as a Java backend developer role. In this internship I have learned Core Java, Advanced Java, Spring Framework, Hibernate, MySQL Database, Microservices, Designing the class diagrams for the Microservices. Global Exception handling and Many more. By using these skills as a team, we have worked on two projects called "Connect My Doc" and "JobCheck" respectively. I am now looking for a Java developer opportunity, which can improve my professional skills related to java web development.
 
 ### Skills
 
-* Data analysis with Pythin
-* React Js(Basics)
-* Java Script(Basics)
-* MySQL workbench
-* C++
-* Tableau
-* HTML/CSS
+* Java
+* Hibernate
+* Spring Framework
+* RESTful webservices
+* StarUML
+* SQL/MySQl workbench/PostgreSQL PGAdmin4
+* GitHub/GitLabs
+* Agile software development
+* C++(Basic level)
 * Wordpress
 
 
