@@ -12,7 +12,6 @@ I am a java developer. I am very passionate about java development. from 16 May 
 * SQL/MySQl workbench/PostgreSQL PGAdmin4
 * GitHub/GitLabs
 * Agile software development
-* C++(Basic level)
 * Wordpress
 
 
