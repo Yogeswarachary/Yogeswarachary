@@ -1,18 +1,33 @@
 ### Hi there 👋 My name is Yogeswarachary.
 
-I am a java developer. I am very passionate about java development. from 16 May 2022 to 15 September 2022 my internship period. I have completed my internship at Pratian Technologies in Bangalore, as a Java backend developer role. In this internship, I have learned Core Java, Advanced Java, Spring Framework, Hibernate, MySQL Database, Microservices, and Designing the class diagrams for the Microservices. Global Exception handling and many more. By using these skills as a team, we have worked on two projects called "Connect My Doc" and "Job Check" respectively. I am now looking for a Java developer opportunity, which can improve my professional skills related to java web development.
+Hello! I’m Yogeswarachary Modepalli, an aspiring Data Analyst and Data Science professional from Hyderabad. I’m currently enrolled in the Accelerator Program in Business Analytics & Data Science by Hero Vired, where I’m building hands-on expertise in solving real-world business problems using data.
+
+My tech journey began with a Bachelor’s in Computer Science, and though I started with a non-IT role, I’ve now fully transitioned into the data domain, where my true passion lies. I am actively working on projects involving ETL pipelines, SQL data manipulation, business case analysis, and dashboarding using Excel, Python, and visualization tools.
+
+This GitHub repository showcases my academic and practical work—including assignments in retail analytics, banking data, ETL workflows, and real-world datasets—as I build a strong foundation to contribute effectively in data-driven roles.
+
+I’m now seeking opportunities in Data Analytics, Data Science, Business Analysis, and Data Engineering, where I can apply my skills to deliver insights and enable smarter decisions.
 
 ### Skills
 
-* Java
-* Hibernate
-* Spring Framework
-* RESTful webservices
-* StarUML
-* SQL/MySQl workbench/PostgreSQL PGAdmin4
-* GitHub/GitLabs
-* Agile software development
-* Wordpress
+#### Data Analysis & Business Analytics:
+* Data Cleaning & Exploration (EDA)
+* Statistical Analysis
+* Problem-solving with real-world data
+* Business Case Studies
 
+#### Tools & Technologies:
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* SQL (MySQL, PostgreSQL, Joins, Subqueries, Window Functions)
+* MS Excel (Functions, Pivot Tables, Charts, Dashboards)
+* ETL Process Design
+* Jupyter Notebooks, Google Colab
 
+#### Visualization & Reporting:
+* Matplotlib, Seaborn
+* Excel Charts & Dashboards
+* Microsoft Power BI and Tableau
 
+#### Workflow & Version Control:
+* Git & GitHub
+* Agile Methodologies
