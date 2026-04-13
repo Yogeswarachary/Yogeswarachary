@@ -8,8 +8,6 @@
 - Introduction to Data Science with Python — *HarvardX (edX)*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yogeswarachary&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/Yogeswarachary?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Yogeswarachary?style=social)
 
 ---
 
